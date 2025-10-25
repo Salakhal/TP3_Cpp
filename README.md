@@ -33,9 +33,8 @@ Titulaire : Alice, Solde : 1500 DH
 [Destruction] Compte de Inconnu détruit.
 
 ```
-# 🧮 TP3 – Constructeurs et Destructeurs  
+ 
 ## Exercice 2 : Gestion d’un Buffer Dynamique  
-### Cours : Programmation Orientée Objet – C++
 
 ---
 
