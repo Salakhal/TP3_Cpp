@@ -33,6 +33,12 @@ Titulaire : Alice, Solde : 1500 DH
 [Destruction] Compte de Inconnu détruit.
 
 ```
+ ##  Exemple d’exécution (image)
+ 
+Voici un exemple de l'exécution du programme (screenshot) : 
+
+![Exécution du programme](execution_ex1.PNG)
+
  
 ## Exercice 2 : Gestion d’un Buffer Dynamique  
 
@@ -63,7 +69,11 @@ Destruction du buffer de 8 octets
 Destruction du buffer de 0 octet
 
 ```
+ ##  Exemple d’exécution (image)
+ 
+Voici un exemple de l'exécution du programme (screenshot) : 
 
+![Exécution du programme](execution_ex2.PNG)
 
 
 
